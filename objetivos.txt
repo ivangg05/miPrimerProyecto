@@ -1,1 +1,2 @@
 - Adquirir conocimientos básicos de HTML Y CSS
+- Saber gestionar bien un proyecto
